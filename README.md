@@ -23,8 +23,8 @@ Ogden park is Station 10137000
 ![USGS WEBER RIVER](https://github.com/andrewpark467/RiverAnalysis/blob/main/riverLookUSGS.png)
 
 
-#Now, my favorite part; finding data. 
-Where can we find data?
+# Now, my favorite part.... finding data!
+
 Well, we know that we need precipitation measurements, and river data. 
 We also want to use python and requests to perform API calls to save data locally. 
 - [So lets use Synoptic data for surface observation collection](https://developers.synopticdata.com/mesonet/)
