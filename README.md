@@ -8,3 +8,6 @@ A page hosting work for local river analysis
 ## Simply put... *when can I expect the best river response for the surf wave at my local whitewater park*?
 
 
+1. Lets start by looking at the water cycle.
+
+![water cycle by Dennis Cain, NWS](watercycle_rc.png)
