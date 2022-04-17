@@ -86,5 +86,5 @@ def pullData(site,year,fileName):  #Will pull stream info from input of state ex
 ```
 
 # Now, keeping it simple and showcasing what the groomed data looks like
-![3 rivers ](1650110455946.jpg)
+![3 rivers ](1650110455946.jpg) 
 
