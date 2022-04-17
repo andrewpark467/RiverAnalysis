@@ -18,7 +18,9 @@ Where OUT is the CFS measured at station 10137000, at the white water park
 And IN is the combined runoff/addition from the upstream portions of this problem
 Ogden park is Station 10137000 
 
-### Ogden Park = (Station 1) + (Station 2)  + (Precip)
+### Equation 1) 
+- Ogden Park = (Station 1) + (Station 2)  + (Precip)
+- Out = In 
 
 ![USGS WEBER RIVER](https://github.com/andrewpark467/RiverAnalysis/blob/main/riverLookUSGS.png)
 
