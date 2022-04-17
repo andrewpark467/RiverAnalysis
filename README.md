@@ -22,7 +22,7 @@ Ogden park is Station 10137000
 - Ogden Park = (Station 1) + (Station 2)  + (Precip)
 
 
-![USGS WEBER RIVER](https://github.com/andrewpark467/RiverAnalysis/blob/main/riverLookUSGS.png)
+![USGS WEBER RIVER](riverLookUSGS.png)
 
 
 # Now, my favorite part.... finding data!
@@ -86,5 +86,5 @@ def pullData(site,year,fileName):  #Will pull stream info from input of state ex
 ```
 
 # Now, keeping it simple and showcasing what the groomed data looks like
-![3 rivers ](https://github.com/andrewpark467/RiverAnalysis/blob/main/1650110455946.jpg)
+![3 rivers ](1650110455946.jpg)
 
