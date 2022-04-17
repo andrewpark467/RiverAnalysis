@@ -34,7 +34,8 @@ We also want to use python and requests to perform API calls to save data locall
 
 Example for pulling USGS River data with Python requests and saving dictionary return as txt file.
 
-`def pullData(site,year,fileName):  #Will pull stream info from input of state ex: ut/UT or az AZ NY MT
+```
+def pullData(site,year,fileName):  #Will pull stream info from input of state ex: ut/UT or az AZ NY MT
     """
     Variables and what not on USGS API...
     Site Type   == &siteType=ST where ST == streams
@@ -63,4 +64,4 @@ Example for pulling USGS River data with Python requests and saving dictionary r
     print("Now saving json dictionary as file:%s/%s.txt  " % (main, fileName))
     with open("%s/%s.txt" % (main, fileName), "w+" ) as outFile:
         json.dump(data, outFile)
-`        
+```       
