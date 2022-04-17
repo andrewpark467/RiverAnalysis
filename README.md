@@ -5,6 +5,6 @@ A page hosting work for local river analysis
 - This is based on basic hydrology where: In == Out.
 - The purpose is to understand downstream response to precipitation. This will aid in understanding timelag for the downstream gauge to "feel" rainfall. 
 
-## Simply put... *when can I expect the best response to take my whitewater kayak to the local surf wave*?
+## Simply put... *when can I expect the best river response for the surf wave at my local whitewater park*?
 
 
