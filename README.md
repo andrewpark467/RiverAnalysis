@@ -16,7 +16,8 @@ A page hosting work for local river analysis
 But I only care about precipitation, so we can essentially ignore everything and only focus on that portion of the water life cycle.
 Where OUT is the CFS measured at station 10137000, at the white water park
 And IN is the combined runoff/addition from the upstream portions of this problem
+Ogden park is Station 10137000 
 
-# OUT = Station 1 + Station 2 Precip 
+# Ogden Park = (Station 1) + (Station 2)  + (Precip)
 
 ![USGS WEBER RIVER](https://github.com/andrewpark467/RiverAnalysis/blob/main/riverLookUSGS.png)
