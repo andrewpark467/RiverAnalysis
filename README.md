@@ -32,7 +32,26 @@ We also want to use python and requests to perform API calls to save data locall
 - [So lets use Synoptic data for surface observation collection](https://developers.synopticdata.com/mesonet/)
 - [And the USGS REST Service](https://waterservices.usgs.gov/)
 
-Example for pulling USGS River data with Python requests and saving dictionary return as txt file.
+### Example pulling metadata info for stations in the area using Synoptic API
+```
+#def mesoNetInfo():
+def metaData_info():
+    url = "https://api.synopticdata.com/v2/stations/metadata?&token=%s&network=4" % ( myToken() )
+    print("Now grabbing MetaData information from UDOT RWIS Network" , url) 
+    r = requests.get(url)
+    if r.status_code != 200:
+        print("response failed... " %s (r.status_code) )
+   
+    metaData_dictionary = r.json()
+
+    #save rwis json files
+    with open('%s/%s.txt' %(data_dir, "rwis_info"), 'w') as outFile:
+        json.dump(metaData_dictionary, outFile)
+```
+
+
+
+### Example for pulling USGS River data with Python requests and saving dictionary return as txt file.
 
 ```
 def pullData(site,year,fileName):  #Will pull stream info from input of state ex: ut/UT or az AZ NY MT
