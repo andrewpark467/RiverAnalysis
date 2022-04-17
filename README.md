@@ -83,4 +83,8 @@ def pullData(site,year,fileName):  #Will pull stream info from input of state ex
     print("Now saving json dictionary as file:%s/%s.txt  " % (main, fileName))
     with open("%s/%s.txt" % (main, fileName), "w+" ) as outFile:
         json.dump(data, outFile)
-```       
+```
+
+# Now, keeping it simple and showcasing what the groomed data looks like
+![3 rivers ](https://github.com/andrewpark467/RiverAnalysis/blob/main/1650110455946.jpg)
+
