@@ -18,6 +18,14 @@ Where OUT is the CFS measured at station 10137000, at the white water park
 And IN is the combined runoff/addition from the upstream portions of this problem
 Ogden park is Station 10137000 
 
-# Ogden Park = (Station 1) + (Station 2)  + (Precip)
+### Ogden Park = (Station 1) + (Station 2)  + (Precip)
 
 ![USGS WEBER RIVER](https://github.com/andrewpark467/RiverAnalysis/blob/main/riverLookUSGS.png)
+
+
+#Now, my favorite part; finding data. 
+Where can we find data?
+Well, we know that we need precipitation measurements, and river data. 
+We also want to use python and requests to perform API calls to save data locally. 
+- [So lets use Synoptic data for surface observation collection](https://developers.synopticdata.com/mesonet/)
+- [And the USGS REST Service](https://waterservices.usgs.gov/)
