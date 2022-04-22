@@ -90,3 +90,13 @@ def pullData(site,year,fileName):  #Will pull stream info from input of state ex
 # Now, keeping it simple and showcasing what the groomed data looks like
 ![3 rivers ](1650110455946.jpg) 
 
+#Now, thats cool to look at, and we can clearly see there is an downstream response to upstream conditions!
+But.... lets try to make it even easier to find out how long it takes the river to respond.
+
+First, lets take the ogden whitewater park CFS, and subtract it from the upmost measurement location
+r_repsonse = ogdenCFS - UpperMeasurementCFS
+This will give us the change in simpler ways
+
+
+
+
