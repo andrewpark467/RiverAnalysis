@@ -117,14 +117,17 @@ What do we get?
 ![ Ogden and Difference between Ogden and Upper Measurement ](weber_diff.jpg)
 What are we looking at here?
 
-### We are looking at two different events/response; precipitation and release.
+### We are looking at three different events/response; precipitation, snow melt, and release. Or a combination of all three. 
 
 ![ Ogden and Difference between Ogden and Upper Measurement ](events.png) 
 
-# Theories for different events: Precip vs Release: 
+# Theories for different events: Precip vs Snowmelt vs Release: 
 ## Precipitation event
 - Sudden addition of precipitation means we see a rapid shift in differences, hence the large jumps when we subtract ogden from the upper river
 - We can see clearly that addition of rain upstream leads to a similiar downstream response a few hours later.
+
+## Snowmelt
+- Hard to distinguish here, but in theory after snowfall, melting will add water to the system. 
 
 ## Release Event
 - This is marked from a planned release of water from dams upstream. The difference are not sudden or quick, and we can see the difference becomes negative meaning that there is additional water added to the system; most likely from a reservoir or river.  
