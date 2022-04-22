@@ -119,7 +119,7 @@ What are we looking at here?
 
 ### We are looking at two different events/response; precipitation and release.
 
-![ Ogden and Difference between Ogden and Upper Measurement ](precip_VS_release.png) 
+![ Ogden and Difference between Ogden and Upper Measurement ](events.png) 
 
 # How do we know? 
 ## Precipitation event
