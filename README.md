@@ -1,5 +1,5 @@
 # RiverAnalysis
-A page hosting work for local river analysis
+A page hosting my "hobby work" for local river analysis
 
 # [Project One: Using USGS REST and Synoptic API services to collect, organize, and relate downstream response to upstream impacts.](https://andrewpark467.github.io/RiverAnalysis/)
 [See YouTube Video I made requesting data from USGS REST API](https://www.youtube.com/watch?v=pjVDZEw2EsQ&t=970s)
