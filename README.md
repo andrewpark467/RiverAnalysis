@@ -27,7 +27,7 @@ Ogden park is Station 10137000
 ![USGS WEBER RIVER](riverLookUSGS.png)
 
 
-# Now, my favorite part.... finding data!
+# Lets find data!
 
 Well, we know that we need precipitation measurements, and river data. 
 We also want to use python and requests to perform API calls to save data locally. 
@@ -87,7 +87,7 @@ def pullData(site,year,fileName):  #Will pull stream info from input of state ex
         json.dump(data, outFile)
 ```
 
-# Now, keeping it simple and showcasing what the groomed data looks like
+# Keeping it simple and showcasing what the groomed data looks like
 ![3 rivers ](1650110455946.jpg) 
 
 # We can clearly see there is an downstream response to upstream conditions!
@@ -117,7 +117,7 @@ What do we get?
 ![ Ogden and Difference between Ogden and Upper Measurement ](weber_diff.jpg)
 What are we looking at here?
 
-### Well... we are looking at two different events/response; precipitation and release.
+### We are looking at two different events/response; precipitation and release.
 
 ![ Ogden and Difference between Ogden and Upper Measurement ](precip_VS_release.png) 
 
