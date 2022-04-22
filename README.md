@@ -129,7 +129,7 @@ What are we looking at here?
 ## Release Event
 - This is marked from a planned release of water from dams upstream. The difference are not sudden or quick, and we can see the difference becomes negative meaning that there is additional water added to output from another reservoir. 
 
-# In plain english, slow response to release events. and rapid shifts when precip is added to the system.
+In plain english, slow response == release events. Rapid shifts when precip is added to the system.
 
 
 
