@@ -136,6 +136,12 @@ In plain english, slow response == release events. Rapid shifts when precip is a
 
 
 
+# Testing theories. 
+
+
+
+
+
 
 
 
