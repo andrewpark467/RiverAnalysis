@@ -97,6 +97,7 @@ First, lets take the ogden whitewater park CFS, and subtract it from the upmost 
 r_repsonse = ogdenCFS - UpperMeasurementCFS
 This will give us the change in simpler ways
 
-
+We should see something like this terrible paint drawing below
+![test](pic2.jpg) 
 
 
