@@ -114,6 +114,11 @@ We should see something like this terrible paint drawing below
 ```
 
 What do we get?
+![ Ogden and Difference between Ogden and Upper Measurement ](weber_diff.jpg)
+What are we looking at here?
+
+### Well... we are looking at two different events/response; precipitation and release.
+
 ![ Ogden and Difference between Ogden and Upper Measurement ](precip_VS_release.png) 
 
 
