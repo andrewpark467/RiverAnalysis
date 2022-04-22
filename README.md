@@ -119,7 +119,7 @@ What are we looking at here?
 
 ### We are looking at three different events/response; precipitation, snow melt, and release. Or a combination of all three. 
 
-![ Ogden and Difference between Ogden and Upper Measurement ](events.png) 
+![ Ogden and Difference between Ogden and Upper Measurement ](testingTheory.png) 
 
 # Theories for different events: Precip vs Snowmelt vs Release: 
 ## Precipitation event
