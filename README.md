@@ -121,6 +121,18 @@ What are we looking at here?
 
 ![ Ogden and Difference between Ogden and Upper Measurement ](precip_VS_release.png) 
 
+# How do we know? 
+## Precipitation event
+- Sudden addition of precipitation means we see a rapid shift in differences, hence the large jumps when we subtract ogden from the upper river
+- We can see clearly that additiono of rain upstream leads to a similiar downstream response a few hours later.
+
+## Release Event
+- This is marked from a planned release of water from dams upstream. The difference are not sudden or quick, and we can see the difference becomes negative meaning that there is additional water added to output from another reservoir. 
+
+# In plain english, slow response to release events. and rapid shifts when precip is added to the system.
+
+
+
 
 
 
