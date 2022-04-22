@@ -121,13 +121,13 @@ What are we looking at here?
 
 ![ Ogden and Difference between Ogden and Upper Measurement ](events.png) 
 
-# How do we know? 
+# Theories for different events: Precip vs Release: 
 ## Precipitation event
 - Sudden addition of precipitation means we see a rapid shift in differences, hence the large jumps when we subtract ogden from the upper river
-- We can see clearly that additiono of rain upstream leads to a similiar downstream response a few hours later.
+- We can see clearly that addition of rain upstream leads to a similiar downstream response a few hours later.
 
 ## Release Event
-- This is marked from a planned release of water from dams upstream. The difference are not sudden or quick, and we can see the difference becomes negative meaning that there is additional water added to output from another reservoir. 
+- This is marked from a planned release of water from dams upstream. The difference are not sudden or quick, and we can see the difference becomes negative meaning that there is additional water added to the system; most likely from a reservoir or river.  
 
 In plain english, slow response == release events. Rapid shifts when precip is added to the system.
 
