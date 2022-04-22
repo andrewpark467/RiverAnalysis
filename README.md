@@ -98,6 +98,24 @@ r_repsonse = ogdenCFS - UpperMeasurementCFS
 This will give us the change in simpler ways
 
 We should see something like this terrible paint drawing below
-![test](pic2.jpg) 
+![test](pic2.png) 
+
+
+# So lets use pandas to open the txt files, then merge them by datetime:
+
+```
+    dfOne["DATETIME"] = pd.to_datetime(dfOne["DATETIME"], utc=True)
+    dfTwo["DATETIME"] = pd.to_datetime(dfTwo["DATETIME"],utc=True)
+    merged_df = pd.merge_asof(dfOne,dfTwo, on= "DATETIME" , tolerance=pd.Timedelta('1min') )
+
+    merged_df["DIFF"] = merged_df["CFS1"] - merged_df["CFS2"]
+    
+   
+```
+
+What do we get?
+![ Ogden and Difference between Ogden and Upper Measurement ](precip_VS_release.png) 
+
+
 
 
