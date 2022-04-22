@@ -2,7 +2,7 @@
 A page hosting work for local river analysis
 
 # [Project One: Using USGS REST and Synoptic API services to collect, organize, and relate downstream response to upstream impacts.](https://andrewpark467.github.io/RiverAnalysis/)
-[See YouTube Video I amde](https://www.youtube.com/watch?v=pjVDZEw2EsQ&t=970s)
+[See YouTube Video I made requesting data from USGS REST API](https://www.youtube.com/watch?v=pjVDZEw2EsQ&t=970s)
 
 - This is based on basic hydrology where: In == Out.
 - The purpose is to understand downstream response to precipitation. This will aid in understanding timelag for the downstream gauge to "feel" rainfall. 
