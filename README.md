@@ -136,7 +136,9 @@ In plain english, slow response == release events. Rapid shifts when precip is a
 
 
 
-# Testing theories. 
+# Testing theories with some basic statistics. 
+
+![Basic scatter plots](stats1.jpg)
 
 
 
